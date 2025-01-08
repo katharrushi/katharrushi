@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://portfolioreactrk.netlify.app/](https://portfolioreactrk.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolioreactrk.netlify.app/](https://portfolioreactrsk.netlify.app/)
 
 - 💬 Ask me about **react, java, front-end development**
 
